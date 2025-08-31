@@ -9,7 +9,9 @@ I'm a passionate **Mobile Application Developer** with a focus on building beaut
 - 🌐 Venturing into Web3
 
 ## 👷‍♂️ Current Project
-I'm currently working on **[animenexa] https://x.com/AnimeNexa_ANX**, a Web3 hub for Otakus built on Solana network. It’s where anime lovers and blockchain merge!
+- I'm currently working on **AnimeNexa[https://x.com/Otashu_io]**, a Web3 hub for Otakus built on Solana network. It’s where anime lovers and blockchain merge!
+- Building Hue Marketplace, a web3 based preorder platform for physical products on solana
+
 
 ## 🌱 Goals
 - Deepen my knowledge of Rust
